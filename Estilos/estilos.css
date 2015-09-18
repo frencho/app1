@@ -1,0 +1,85 @@
+/*RESETEO*/
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1
+{
+    float: left;
+    color: #80FF80;
+    border: none;
+    width: 100%;
+    text-align: center;
+    font-size: 300%;
+    margin-bottom: 10%;
+}
+
+input
+{
+    float: left;
+    width: 85%;
+    margin-left: 5%;
+    height: 40px;
+    font-size: 150%;
+    border: 1px solid #4CD84C;
+    border-radius: 5px;
+    margin-bottom: 5%;
+    padding-left: 3%;
+}
+
+button
+{
+    float: left;
+    background: #80FF80;
+    color: white;
+    width: 60%;
+    margin-left: 20%;
+    height: 60px;
+    font-size: 150%;
+    border: none;
+    border-radius: 5px;
+    margin-top: 5%;
+}
+
+div
+{
+    float: left;
+    width: 100%;
+    font-size: 100%;
+    height: 3%;
+    color: white;
+    border-radius: 5%;
+    border: 1p solid #c0c0c0;
+    padding-bottom: 10px;
+    text-align: center;
+    bottom: 0%;
+    left: 0px;
+    right: 0px;
+    position: fixed;
+}
+
+a
+{
+    float: left;
+    width: 100%;
+    font-size: 100%;
+    height: 3%;
+    color: white;
+    border-radius: 5%;
+    border: 1p solid #c0c0c0;
+    padding-bottom: 10px;
+    text-align: center;
+    bottom: 0%;
+    left: 0px;
+    right: 0px;
+    position: fixed;
+}
+
+body
+{
+    background-image: url(../Imagenes/fondo.png);
+    background-size: 100% 190%;
+}
